@@ -20,10 +20,7 @@
 
 Building scalable backend systems, event-driven architectures, and production-grade applications using Java, Spring Boot, Apache Kafka, and modern web technologies.
 
-🌐 **Live Portfolio:** https://sameer-portfolio-gules.vercel.app
-
-</div>
-
+🌐 **Live Portfolio:** [Visit Portfolio](https://sameer-portfolio-gules.vercel.app)
 ---
 
 ## 👨‍💻 About Me
@@ -72,7 +69,9 @@ I enjoy designing systems that are scalable, reliable, and production-ready whil
 
 ## ⭐ Featured Projects
 
-### 1. Event-Driven Order Processing System
+### 🚀 Event-Driven Order Processing System
+
+🔗 Repository: [View Project](https://github.com/Sameer07-web/event-driven-ecommerce-system)
 
 - Spring Boot Microservices
 - Apache Kafka Integration
@@ -80,14 +79,18 @@ I enjoy designing systems that are scalable, reliable, and production-ready whil
 - Distributed Architecture
 - Production-Style Backend Design
 
-### 2. CareerMate AI Platform
+### 🤖 CareerMate AI Platform
+
+🔗 Repository: [View Project](https://github.com/Sameer07-web/CareerMate-Platform)
 
 - AI-Powered Career Guidance
 - React Native Mobile Application
 - Gemini API Integration
 - Personalized Career Recommendations
 
-### 3. AuthSphere IAM Platform
+### 🔐 AuthSphere IAM Platform
+
+🔗 Repository: [View Project](https://github.com/Sameer07-web/authsphere-iam-platform)
 
 - OAuth Authentication
 - Multi-Factor Authentication (MFA)
@@ -95,9 +98,23 @@ I enjoy designing systems that are scalable, reliable, and production-ready whil
 - Audit Logging
 - Multi-Tenant Architecture
 - Redis Session Management
-
+---
 ---
 
+## 🎯 Engineering Focus
+
+These projects demonstrate practical experience in:
+
+- Distributed Systems
+- Event-Driven Architecture
+- Authentication & Authorization
+- REST API Development
+- Full Stack Application Development
+- Mobile Application Development
+- Scalable Backend Engineering
+- Production-Oriented Software Design
+
+---
 ## 📈 Skills & Interests
 
 - Backend Development
@@ -113,10 +130,10 @@ I enjoy designing systems that are scalable, reliable, and production-ready whil
 ## 🧩 Problem Solving
 
 - 300+ DSA Problems Solved
-- Consistent LeetCode Practice
-- Data Structures & Algorithms
+- Consistent Practice on LeetCode & MentorPick
+- Strong Foundation in Data Structures & Algorithms
 - Object-Oriented Programming
-
+- Interview-Focused Problem Solving
 ---
 
 ## 🎓 Education
@@ -147,15 +164,15 @@ Expected Graduation: **2027**
 
 ### LinkedIn
 
-www.linkedin.com/in/mohammadsameer007
+[LinkedIn Profile](https://www.linkedin.com/in/mohammadsameer007)
 
 ### GitHub
 
-https://github.com/Sameer07-web
+[GitHub Profile](https://github.com/Sameer07-web)
 
 ### Portfolio
 
-https://sameer-portfolio-gules.vercel.app
+[Portfolio Website](https://sameer-portfolio-gules.vercel.app)
 
 ---
 
