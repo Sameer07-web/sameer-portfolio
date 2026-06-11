@@ -2,7 +2,7 @@
 
 ## 🌐 Portfolio Preview
 
-![Portfolio Preview](assets/portfolio-preview.png)
+![Portfolio Preview](assets/portfolio-preview.jpeg)
 
 <div align="center">
 
