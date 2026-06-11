@@ -2,9 +2,19 @@
 
 ## 🌐 Portfolio Preview
 
-![Portfolio Preview](assets/portfolio-preview.jpeg)
+<p align="center">
+  <img src="assets/portfolio-preview.jpeg" alt="Portfolio Preview" width="900"/>
+</p>
 
-<div align="center">
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-17-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Spring_Boot-3.x-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Apache_Kafka-Distributed_Systems-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Full_Stack-MERN-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deployment-Vercel-purple?style=for-the-badge" />
+
+</p>
 
 ### Backend Engineer • Full Stack Developer • Distributed Systems Enthusiast
 
