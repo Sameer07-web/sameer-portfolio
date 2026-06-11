@@ -16,20 +16,23 @@
 
 </p>
 
-### Backend Engineer • Full Stack Developer • Distributed Systems Enthusiast
+### Backend Engineer • Java Developer • Full Stack Developer
 
 Building scalable backend systems, event-driven architectures, and production-grade applications using Java, Spring Boot, Apache Kafka, and modern web technologies.
 
 🌐 **Live Portfolio:** [Visit Portfolio](https://sameer-portfolio-gules.vercel.app)
+
 ---
 
 ## 👨‍💻 About Me
 
 I'm a Final-Year Computer Science Engineering student at **Sreenidhi Institute of Science and Technology (SNIST), Hyderabad**.
 
-My primary focus is backend engineering, distributed systems, microservices architecture, and full-stack development.
+I specialize in backend development using **Java, Spring Boot, Apache Kafka, and REST APIs**, with a strong interest in **distributed systems, microservices, and scalable software architecture**.
 
-I enjoy designing systems that are scalable, reliable, and production-ready while continuously improving my problem-solving and software engineering skills.
+Through hands-on projects, I have built event-driven systems, AI-powered applications, and authentication platforms while continuously strengthening my software engineering, system design, and problem-solving skills.
+
+I am currently focused on building production-oriented applications and preparing for software engineering and full-stack development opportunities.
 
 ---
 
@@ -98,7 +101,7 @@ I enjoy designing systems that are scalable, reliable, and production-ready whil
 - Audit Logging
 - Multi-Tenant Architecture
 - Redis Session Management
----
+
 ---
 
 ## 🎯 Engineering Focus
@@ -115,6 +118,7 @@ These projects demonstrate practical experience in:
 - Production-Oriented Software Design
 
 ---
+
 ## 📈 Skills & Interests
 
 - Backend Development
@@ -134,6 +138,7 @@ These projects demonstrate practical experience in:
 - Strong Foundation in Data Structures & Algorithms
 - Object-Oriented Programming
 - Interview-Focused Problem Solving
+
 ---
 
 ## 🎓 Education
@@ -157,6 +162,12 @@ Expected Graduation: **2027**
 - Experience & Education Timeline
 - Resume Download
 - Mobile-Friendly Layout
+
+---
+
+## 📄 Resume
+
+📥 [Download Resume](resume/Mohammad_Sameer_Resume.pdf)
 
 ---
 
