@@ -1,5 +1,9 @@
 # 🚀 Mohammad Sameer – Software Engineer Portfolio
 
+## 🌐 Portfolio Preview
+
+![Portfolio Preview](assets/portfolio-preview.png)
+
 <div align="center">
 
 ### Backend Engineer • Full Stack Developer • Distributed Systems Enthusiast
